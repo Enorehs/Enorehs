@@ -1,16 +1,58 @@
 <div align="center">
 
-# 👾 `system.run("hello_world.exe")` 🌸
-### Full-Stack Dev ✦ Creative Technologist ✦ Pixel Hoarder
+# ₊˚⊹♡ hi, i'm sherone! ♡⊹˚₊
+### `developer by day(?) ✦ creator by always`
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=EXP%20POINTS&color=ff79c6&style=flat-square" alt="EXP Points" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE%20✨-50fa7b?style=flat-square" />
-  <img src="https://img.shields.io/badge/MANA-100%25-8be9fd?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-building_cool_stuff-f5c2e7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/focus-creative_tech_%26_AI-cba6f7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/location-india_🇮🇳-89b4fa?style=flat-square&labelColor=1e1e2e" />
 </p>
 
-```text
- ∧,,,∧   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-(  ̳• · • ̳) ┃  Level 23 Software Architect            ┃
-/    づ♡  ┃  Crafting code, pixels & interactive worlds┃
-         ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+> *currently building cool things and pretending i know what i'm doing ✨*
+
+</div>
+
+---
+
+### 🌸 **About Me**
+
+* 💻 **Software & Creative Tech:** bridging logic and aesthetic user experiences.
+* 🤖 **Exploring:** Generative AI, LLMs, and quirky interactive agents.
+* 🎮 **Side Quests:** pop-culture enthusiast, gamer, and professional side-quest starter.
+
+---
+
+### ✦ **Tech I've Collected Along the Way**
+
+<div align="center">
+
+| Area | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python` · `JavaScript` · `Java` · `C++` · `C` · `HTML5` · `CSS3` |
+| **Frameworks & Tools** | `Flask` · `Git` · `Docker` · `Tailwind CSS` · `React` |
+| **Creative & Vision** | `OpenCV` · `MediaPipe` · `Figma` · `Blender` |
+
+</div>
+
+---
+
+### 🤖 **Current Side Quest**
+
+> ### **MISO** ✦ *My Intelligent Sidekick & Organizer*
+> A personal AI companion built with **brains, personality, and probably sarcasm**.
+
+---
+
+### 💭 **`$ git status`**
+
+```zsh
+On branch main
+Your branch is up to date with 'universe/reality'.
+
+Changes to be committed:
+  modified:   energy_levels.env     -> [status: questionable ☕]
+  new file:   ideas_backlog.json    -> [count: too many 💡]
+  modified:   debug_log.txt         -> [bugs: unfortunately also too many 🐛]
+
+nothing to commit, let's just make something cool ₊˚⊹♡
