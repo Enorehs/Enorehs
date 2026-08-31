@@ -1,15 +1,23 @@
 <div align="center">
 
-# ₊˚⊹♡ hi, i'm sherone! ♡⊹˚₊
-### `developer by day(?) ✦ creator by always`
+<!-- 🌸 HERO BANNER / WAIFU BANNER 🌸 -->
+<a href="https://github.com/Enorehs">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff758f,50:ffb3c6,100:fcd5ce&height=220&section=header&text=SHERONE%20✦%20ENOREHS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20by%20day(?)%20•%20creator%20by%20always%20₊˚⊹♡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
+</a>
 
+<!-- 🎀 SOCIAL & STATUS BADGES 🎀 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/status-building_cool_stuff-f5c2e7?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/focus-creative_tech_%26_AI-cba6f7?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/location-india_🇮🇳-89b4fa?style=flat-square&labelColor=1e1e2e" />
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-ff758f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b1b2f" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/INSTAGRAM-ff85a1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2b1b2f" /></a>
+  <a href="https://github.com/Enorehs"><img src="https://img.shields.io/badge/PORTFOLIO-ff99ac?style=for-the-badge&logo=safari&logoColor=white&labelColor=2b1b2f" /></a>
 </p>
 
-> *currently building cool things and pretending i know what i'm doing ✨*
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_COOL_STUFF-ffb3c6?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/FOCUS-CREATIVE_TECH_%26_AI-ff758f?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA_🇮🇳-c9184a?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://komarev.com/ghpvc/?username=Enorehs&label=VISITORS+🎀&color=ff758f&style=flat-square" />
+</p>
 
 </div>
 
@@ -17,9 +25,34 @@
 
 ### 🌸 **About Me**
 
-* 💻 **Software & Creative Tech:** bridging logic and aesthetic user experiences.
-* 🤖 **Exploring:** Generative AI, LLMs, and quirky interactive agents.
+> *currently building cool things and pretending i know what i'm doing ✨*
+
+* 💻 **Software & Creative Tech:** bridging code, anime aesthetics & playful interfaces.
+* 🤖 **Exploring:** Generative AI, LLMs, and interactive intelligent companions.
 * 🎮 **Side Quests:** pop-culture enthusiast, gamer, and professional side-quest starter.
+
+---
+
+### 📊 **Github Stats & Companion**
+
+<table>
+  <tr>
+    <!-- LEFT COLUMN: GITHUB STATS CARDS -->
+    <td width="55%" valign="top">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Enorehs&show_icons=true&theme=radical&bg_color=181528&title_color=ff758f&icon_color=ffb3c6&text_color=f8f8f2&border_color=ff758f&border_radius=12" width="100%" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enorehs&theme=radical&background=181528&ring=ff758f&fire=ff758f&currStreakLabel=ffb3c6&border=ff758f&border_radius=12" width="100%" />
+      </div>
+    </td>
+    <!-- RIGHT COLUMN: KAWAII / ANIME DISPLAY CARD -->
+    <td width="45%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/1f/90/a6/1f90a61a5518b5df4c50dc55fbc40d43.gif" width="100%" style="border-radius: 12px;" />
+      <br>
+      <sub><i>⚡ Leveling up one commit at a time...</i></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,32 +60,52 @@
 
 <div align="center">
 
-| Area | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `Python` · `JavaScript` · `Java` · `C++` · `C` · `HTML5` · `CSS3` |
-| **Frameworks & Tools** | `Flask` · `Git` · `Docker` · `Tailwind CSS` · `React` |
-| **Creative & Vision** | `OpenCV` · `MediaPipe` · `Figma` · `Blender` |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ff758f?style=for-the-badge&logo=python&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/JavaScript-ff85a1?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/Java-ff99ac?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/C%2B%2B-ffb3c6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/C-ffccd5?style=for-the-badge&logo=c&logoColor=white&labelColor=2b1b2f" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-ff758f?style=for-the-badge&logo=flask&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/React-ff85a1?style=for-the-badge&logo=react&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ff99ac?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/Docker-ffb3c6?style=for-the-badge&logo=docker&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/Git-ffccd5?style=for-the-badge&logo=git&logoColor=white&labelColor=2b1b2f" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-ff758f?style=for-the-badge&logo=opencv&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/MediaPipe-ff85a1?style=for-the-badge&logo=google&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/Figma-ff99ac?style=for-the-badge&logo=figma&logoColor=white&labelColor=2b1b2f" />
+  <img src="https://img.shields.io/badge/Blender-ffb3c6?style=for-the-badge&logo=blender&logoColor=white&labelColor=2b1b2f" />
+</p>
 
 </div>
 
 ---
 
-### 🤖 **Current Side Quest**
+### 🤖 **Featured Projects & Quests**
 
-> ### **MISO** ✦ *My Intelligent Sidekick & Organizer*
-> A personal AI companion built with **brains, personality, and probably sarcasm**.
+<div align="center">
 
----
+<a href="https://github.com/Enorehs/relic-vox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enorehs&repo=relic-vox&theme=radical&bg_color=181528&title_color=ff758f&icon_color=ffb3c6&text_color=f8f8f2&border_color=ff758f&border_radius=10" width="48%" />
+</a>
+<a href="https://github.com/Enorehs/Majestic-Impact">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enorehs&repo=Majestic-Impact&theme=radical&bg_color=181528&title_color=ff758f&icon_color=ffb3c6&text_color=f8f8f2&border_color=ff758f&border_radius=10" width="48%" />
+</a>
 
-### 💭 **`$ git status`**
+</div>
 
-```zsh
-On branch main
-Your branch is up to date with 'universe/reality'.
+<br>
 
-Changes to be committed:
-  modified:   energy_levels.env     -> [status: questionable ☕]
-  new file:   ideas_backlog.json    -> [count: too many 💡]
-  modified:   debug_log.txt         -> [bugs: unfortunately also too many 🐛]
-
-nothing to commit, let's just make something cool ₊˚⊹♡
+```text
+  ╭───────────────────────────────────────────────────────────────────╮
+  │  🤖 CURRENT ACTIVE QUEST : MISO                                   │
+  │  My Intelligent Sidekick & Organizer                              │
+  │  A personal AI companion built with brains, personality,          │
+  │  and probably sarcasm ✨                                          │
+  ╰───────────────────────────────────────────────────────────────────╯
