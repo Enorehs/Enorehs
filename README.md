@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- 🌸 HERO BANNER / WAIFU BANNER 🌸 -->
 <a href="https://github.com/Enorehs">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff758f,50:ffb3c6,100:fcd5ce&height=220&section=header&text=✦%20ENOREHS✦&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20by%20day(?)%20•%20creator%20by%20always%20₊˚⊹♡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff758f,50:ffb3c6,100:fcd5ce&height=220&section=header&text=✦%20SHER ONE D'SOUZA✦&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20by%20day(?)%20•%20creator%20by%20always%20₊˚⊹♡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
 </a>
 
-<!-- 🎀 SOCIAL & STATUS BADGES 🎀 -->
 <p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-ff758f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b1b2f" /></a>
 </p>
@@ -33,14 +31,12 @@
 
 <table>
   <tr>
-    <!-- LEFT COLUMN: GITHUB STATS CARDS -->
     <td width="55%" valign="top">
       <div align="center">
         <br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enorehs&theme=radical&background=181528&ring=ff758f&fire=ff758f&currStreakLabel=ffb3c6&border=ff758f&border_radius=12" width="100%" />
       </div>
     </td>
-    <!-- RIGHT COLUMN: KAWAII / ANIME DISPLAY CARD -->
     <td width="45%" align="center" valign="middle">
       <img src="https://i.pinimg.com/originals/1f/90/a6/1f90a61a5518b5df4c50dc55fbc40d43.gif" width="100%" style="border-radius: 12px;" />
       <br>
