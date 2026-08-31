@@ -8,15 +8,11 @@
 <!-- 🎀 SOCIAL & STATUS BADGES 🎀 -->
 <p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-ff758f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b1b2f" /></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/INSTAGRAM-ff85a1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2b1b2f" /></a>
-  <a href="https://github.com/Enorehs"><img src="https://img.shields.io/badge/PORTFOLIO-ff99ac?style=for-the-badge&logo=safari&logoColor=white&labelColor=2b1b2f" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BUILDING_COOL_STUFF-ffb3c6?style=flat-square&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/FOCUS-CREATIVE_TECH_%26_AI-ff758f?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA_🇮🇳-c9184a?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://komarev.com/ghpvc/?username=Enorehs&label=VISITORS+🎀&color=ff758f&style=flat-square" />
 </p>
 
 </div>
