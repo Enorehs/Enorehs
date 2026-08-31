@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Enorehs">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff758f,50:ffb3c6,100:fcd5ce&height=220&section=header&text=✦%20SHER ONE✦&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20by%20day(?)%20•%20creator%20by%20always%20₊˚⊹♡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff758f,50:ffb3c6,100:fcd5ce&height=220&section=header&text=SHERONE%20✦%20D'SOUZA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20by%20day(?)%20•%20creator%20by%20always%20₊˚⊹♡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
 </a>
 
 <p align="center">
