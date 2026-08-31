@@ -44,7 +44,7 @@
     <td width="45%" align="center" valign="middle">
       <img src="https://i.pinimg.com/originals/1f/90/a6/1f90a61a5518b5df4c50dc55fbc40d43.gif" width="100%" style="border-radius: 12px;" />
       <br>
-      <sub><i>⚡ Leveling up one commit at a time...</i></sub>
+      <sub><i>⚡ miau...</i></sub>
     </td>
   </tr>
 </table>
