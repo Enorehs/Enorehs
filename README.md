@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-ff758f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b1b2f" /></a>
+  <a href="https://linkedin.com/in/sherone-d-souza-9a497b180/"><img src="https://img.shields.io/badge/LINKEDIN-ff758f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b1b2f" /></a>
 </p>
 
 <p align="center">
