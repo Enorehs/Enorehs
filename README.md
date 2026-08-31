@@ -84,28 +84,3 @@
 </p>
 
 </div>
-
----
-
-### 🤖 **Featured Projects & Quests**
-
-<div align="center">
-
-<a href="https://github.com/Enorehs/relic-vox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enorehs&repo=relic-vox&theme=radical&bg_color=181528&title_color=ff758f&icon_color=ffb3c6&text_color=f8f8f2&border_color=ff758f&border_radius=10" width="48%" />
-</a>
-<a href="https://github.com/Enorehs/Majestic-Impact">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enorehs&repo=Majestic-Impact&theme=radical&bg_color=181528&title_color=ff758f&icon_color=ffb3c6&text_color=f8f8f2&border_color=ff758f&border_radius=10" width="48%" />
-</a>
-
-</div>
-
-<br>
-
-```text
-  ╭───────────────────────────────────────────────────────────────────╮
-  │  🤖 CURRENT ACTIVE QUEST : MISO                                   │
-  │  My Intelligent Sidekick & Organizer                              │
-  │  A personal AI companion built with brains, personality,          │
-  │  and probably sarcasm ✨                                          │
-  ╰───────────────────────────────────────────────────────────────────╯
