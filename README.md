@@ -36,7 +36,6 @@
     <!-- LEFT COLUMN: GITHUB STATS CARDS -->
     <td width="55%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Enorehs&show_icons=true&theme=radical&bg_color=181528&title_color=ff758f&icon_color=ffb3c6&text_color=f8f8f2&border_color=ff758f&border_radius=12" width="100%" />
         <br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enorehs&theme=radical&background=181528&ring=ff758f&fire=ff758f&currStreakLabel=ffb3c6&border=ff758f&border_radius=12" width="100%" />
       </div>
