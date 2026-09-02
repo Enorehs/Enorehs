@@ -17,7 +17,7 @@
 
 ---
 
-### 🌸 **About Me**
+### 🌸 **A Little About Me**
 
 > *currently building cool things and pretending i know what i'm doing ✨*
 
