@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 **Github Stats & Companion**
+### ✦ **Github Stats & Companion** ✦
 
 <table>
   <tr>
@@ -47,7 +47,7 @@
 
 ---
 
-### ✦ **Tech I've Collected Along the Way**
+### ✦ **Tech I've Collected Along the Way** ✦
 
 <div align="center">
 
